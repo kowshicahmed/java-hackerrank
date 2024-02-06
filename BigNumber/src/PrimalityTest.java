@@ -2,7 +2,7 @@ import java.io.*;
 import java.math.BigInteger;
 
 
-public class Main {
+public class PrimalityTest {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
